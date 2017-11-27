@@ -1,0 +1,12 @@
+{
+  "name": "bitbull/magento_ko_KR",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "Korean language pack for Magento 1",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    { "name": "Nadia Sala", "email": "nadia.sala@bitbull.it" }
+  ]
+}
